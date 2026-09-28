@@ -224,6 +224,7 @@ esp32-p4c5-core-board/
 - [ESP32P4C5 模组封装库（原理图 SchLib）](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.SchLib)
 - [ESP32P4C5 模组封装库（PCB PcbLib）](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.PcbLib)
 - [P4 模组 3D 模型（STEP）](./docs/P4%E6%A8%A1%E7%BB%843D%E6%A8%A1%E5%9E%8B.step)
+- [C5 预编译固件 2.12.9（Release，烧 `0x0`）](https://github.com/osptek/esp32-p4c5-core-board/releases/tag/v2.12.9) · [Gitee](https://gitee.com/osptek/esp32-p4c5-core-board/releases/tag/v2.12.9)
 
 ### 芯片资料（乐鑫官方）
 

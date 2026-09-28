@@ -226,6 +226,7 @@ esp32-p4c5-core-board/
 - [ESP32P4C5 module footprint library (SchLib)](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.SchLib)
 - [ESP32P4C5 module footprint library (PcbLib)](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.PcbLib)
 - [P4 module 3D model (STEP)](./docs/P4%E6%A8%A1%E7%BB%843D%E6%A8%A1%E5%9E%8B.step)
+- [C5 firmware 2.12.9 (Release, flash `0x0`)](https://github.com/osptek/esp32-p4c5-core-board/releases/tag/v2.12.9) · [Gitee](https://gitee.com/osptek/esp32-p4c5-core-board/releases/tag/v2.12.9)
 
 ### Chip Documentation (Espressif)
 
